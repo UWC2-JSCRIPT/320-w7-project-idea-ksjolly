@@ -14,7 +14,14 @@ Over the next week, I will begin creating the components for my project and deve
 search algorithm/fetch. I will implement routing and state. I will use Material UI for the overlay and for the 
 styling.
 
-Over the following week, I will figure out how to do the login and how to have unique logins for the user. 
+Over the following week(s), I will figure out how to do the login and how to have unique logins for the user. 
 I anticipate this to be the trickiest part. 
 
-I plan on working this solo, as my work schedule has been a bit crazy and I plan on working weird hours. 
+I plan on working this solo. 
+
+My dependencies include: 
+
+Material UI
+Firebase (for login, tentative)
+OMDB API
+React Router
