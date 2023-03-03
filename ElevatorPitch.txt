@@ -1,0 +1,27 @@
+My project will be a movie project using the Open Movie Poster API (OMDB). This is a cool cheap API
+that returns beautiful classic movie posters. 
+
+My project will have a search bar that allows a user to input search terms for movies. The output
+will be a container that contains movie posters from the database. The user will be able to login and 
+save favorite movie posters to their account. By clicking their avatar once they log in, the userw
+will open an overlay in which they can see their highlighted movies. 
+
+I plan to use React Routing to create the login and default home page. I will implement a login.
+I haven't thought too much about how to implement the login yet but can use Firebase as a database
+if that proves to be the easiest way. 
+
+Over the next week, I will begin creating the components for my project and developing the 
+search algorithm/fetch. I will implement routing and state. I will use Material UI for the overlay and for the 
+styling.
+
+Over the following week(s), I will figure out how to do the login and how to have unique logins for the user. 
+I anticipate this to be the trickiest part. 
+
+I plan on working this solo. 
+
+My dependencies include: 
+
+Material UI
+Firebase (for login, tentative)
+OMDB API
+React Router
